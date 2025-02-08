@@ -53,7 +53,7 @@ This approach decouples the state management from the React ecosystem, allowing 
     npm run develop
     ```
 4. Open browser and navigate to:
-    * `localhost:3000`
+    * [localhost:3000](http://localhost:3000)
 
 ## Testing
 1. Install Dependencies:
@@ -95,7 +95,7 @@ The use of reducers, actions, and a central store makes state transitions predic
 ## Links
 [Home](https://github.com/san1718/mc22-State_Redux_Store)
 <br />
-[]()
+[Try it! (Live Demo)]()
 
 ## Screenshots
 <img width="1000" alt="" src="">
