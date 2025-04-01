@@ -25,42 +25,42 @@ This approach decouples the state management from the React ecosystem, allowing 
 
 
 ## Technologies Used
-* Front-End:
+* **Front-End:**
     * React.js
     * Axios
     * Webpack/Babel
-* Back-End:
+* **Back-End:**
     * Node.js
     * Express.js
     * MongoDB
     * Mongoose
-* Authentication:
+* **Authentication:**
     * [JSON WEB TOKEN (JWT)](https://jwt.io/)
-* Testing:
+* **Testing:**
     * Jest
 
 ## Installation / Usage
-1. Clone Repository:
+1. **Clone Repository:**
     ```bash
     git clone git@github.com:san1718/mc22-State_Redux_Store.git
     ```
-2. Install Dependencies:
+2. **Install Dependencies:**
     ```bash
     npm install
     ```
-3. Run the Server:
+3. **Run the Server:**
     ```bash
     npm run develop
     ```
-4. Open browser and navigate to:
+4. **Open browser and navigate to:**
     * [localhost:3000](http://localhost:3000)
 
 ## Testing
-1. Install Dependencies:
+1. **Install Dependencies:**
     ```bash
     npm install
     ```
-2. Run Tests:
+2. **Run Tests:**
     - Jest:
       ```bash
       npm run test
@@ -70,11 +70,11 @@ This approach decouples the state management from the React ecosystem, allowing 
       npm run test:server
       npm run test:client
       ```
-3. Running Tests in Development Mode:
+3. **Running Tests in Development Mode:**
     ```bash
     npm run develop
     ```
-4. (Optional) Test Coverage:
+4. **(Optional) Test Coverage:**
     ```bash
     npm run test -- --coverage
     ```
